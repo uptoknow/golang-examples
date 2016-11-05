@@ -1,0 +1,2 @@
+This is an example that package a website that only contains index.html to the bin package, and serve as an http file server
+run go-bindata ./data to generate the bindata file, and the main.go will use the Asset to serve a http file server
